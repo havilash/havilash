@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Havilash/Havilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science and economics student at [bwd Bern](https://bwdbern.ch/) and [gibb](https://gibb.ch/). I'm actively learning new skills and technologies to improve my portfolio and career prospects.
 
-Here are some ideas to get you started:
+## Skills and Experience 🛠️
+- Programming languages: Python ([Pygame](https://www.pygame.org/), [Tensorflow](https://www.tensorflow.org/)), JavaScript, Rust, Java, C# ([WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/), [MAUI](https://learn.microsoft.com/en-us/dotnet/maui/)), C, Lua
+- Web development: HTML, CSS, JS (Vanilla, [React](https://react.dev/))
+- Database management: SQL (MySQL, MariaDB, MS SQL, PostgreSQL)
+- Containerization: Docker, Kubernetes
+- Cloud computing: Amazon AWS, Microsoft Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me 📫
+- Linkedin: [https://www.linkedin.com/in/havilash-sivaratnam-586083265/](https://www.linkedin.com/in/havilash-sivaratnam-586083265/)
+- Website: [https://havilash.com](https://havilash.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Havilash&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Havilash&theme=dark&hide_border=true" width="400">
+</p>
+
+---
+
