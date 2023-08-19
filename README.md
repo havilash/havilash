@@ -5,7 +5,7 @@ I'm a computer science and economics student at [bwd Bern](https://bwdbern.ch/) 
 ## Skills and Experience 🛠️
 - Programming languages: Python ([Pygame](https://www.pygame.org/), [Tensorflow](https://www.tensorflow.org/)), JavaScript, Rust, Java, C# ([WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/), [MAUI](https://learn.microsoft.com/en-us/dotnet/maui/)), C, Lua
 - Web development: HTML, CSS, JS (Vanilla, [React](https://react.dev/))
-- Database management: SQL (MySQL, MS SQL, PostgreSQL)
+- Database management: RDBMS (MySQL, MS SQL, PostgreSQL), NoSQL (MongoDB)
 - Containerization: Docker, Kubernetes
 - Cloud computing: Amazon AWS, Microsoft Azure
 
