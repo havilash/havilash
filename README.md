@@ -1,14 +1,32 @@
-# Hi there 👋
+# Hello!
 
-I'm a computer science and economics student at [bwd Bern](https://bwdbern.ch/) and [gibb](https://gibb.ch/). I'm always seeking new challenges, I am constantly expanding my knowledge and skills in computer science.
+**Software Engineer at Swisscom**  
+Background in **Computer Science** and **Economics** from [bwd Bern](https://bwdbern.ch/) and [gibb](https://gibb.ch/).
 
-## Skills and Experience 🛠️
-- Programming languages: Python ([Pygame](https://www.pygame.org/), [Tensorflow](https://www.tensorflow.org/)), JavaScript, Rust, Java, C# ([WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/), [MAUI](https://learn.microsoft.com/en-us/dotnet/maui/)), C, Lua, Haskell
-- Web development: HTML, CSS, JS (Vanilla, [React](https://react.dev/), [Express](https://expressjs.com/)), PHP ([Laravel](https://laravel.com/)), Python ([Django](https://www.djangoproject.com/), [Flask](https://flask.palletsprojects.com/)), Java ([Spring Boot](https://spring.io/))
-- Database management: RDBMS (MySQL, MS SQL, PostgreSQL), NoSQL (MongoDB)
-- Containerization: Docker, Kubernetes
-- Cloud computing: Amazon AWS, Microsoft Azure
+---
 
-## Connect with Me 📫
-- Linkedin: [https://www.linkedin.com/in/havilash-sivaratnam-586083265/](https://www.linkedin.com/in/havilash-sivaratnam-586083265/)
-- Website: [https://havilash.com](https://havilash.com)
+## Technical Skills
+
+- **Python:** TensorFlow, PyTorch, PyGame, Django (e.g. [Softbody Simulation](https://github.com/Havilash/softbody-simulation), [Text Generation][https://github.com/havilash/text-generation], [CareMinder Backend](https://github.com/rergr/CareMinder), [Deep Neural Network](https://github.com/Havilash/neural-network), [Face Recognition with own data](https://github.com/Havilash/face-recognition))  
+- **JavaScript:** React, Svelte, Express (Full-stack web development, e.g. Breadcrumb, [Portfolio Website](https://github.com/Havilash/portfolio-website))  
+- **Rust:** SDL (e.g. [Fluid Simulation](https://github.com/Havilash/fluid-simulation))  
+- **Java:** Spring Boot (Backend development, e.g. Breadcrumb Backend)  
+- **PHP:** Laravel (Backend development, e.g. [Portfolio Website](https://github.com/Havilash/portfolio-website))  
+- **Lua:** Mostly the work with Neovim plugins  
+- **SQL:** MySQL, MongoDB (Backend data management, e.g. [Portfolio Website](https://github.com/Havilash/portfolio-website), [CareMinder](https://github.com/rergr/CareMinder))  
+
+
+---
+
+## Notable Projects
+
+- **[Neural Network](https://github.com/Havilash/neural-network):** Custom neural network built from scratch with Python and TensorFlow for machine learning experimentation.  
+- **[Softbody Simulation](https://github.com/Havilash/softbody-simulation):** Physics-based simulation using Python and Pygame to model softbody dynamics.  
+- **[Fluid Simulation](https://github.com/Havilash/fluid-simulation):** Fluid dynamics simulation using Rust and SDL to simulate realistic fluid interactions.  
+
+---
+
+## Contact
+
+- **LinkedIn:** [Havilash Sivaratnam](https://www.linkedin.com/in/havilash-sivaratnam-586083265/)  
+- **Website:** [havilash.com](https://havilash.com)
