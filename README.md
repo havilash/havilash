@@ -20,7 +20,7 @@ Background in **Computer Science** and **Economics** from [bwd Bern](https://bwd
 
 ## Notable Projects
 
-- **[Neural Network](https://github.com/Havilash/neural-network):** Custom deep neural network built from scratch with Python for machine learning experimentation.  
+- **[Neural Network](https://github.com/Havilash/neural-network):** Custom deep neural network built from scratch with Python.  
 - **[Softbody Simulation](https://github.com/Havilash/softbody-simulation):** Physics-based simulation using Python and Pygame to model softbody dynamics.  
 - **[Fluid Simulation](https://github.com/Havilash/fluid-simulation):** Fluid dynamics simulation using Rust and SDL to simulate realistic fluid interactions.  
 
