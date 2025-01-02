@@ -7,7 +7,7 @@ Background in **Computer Science** and **Economics** from [bwd Bern](https://bwd
 
 ## Technical Skills
 
-- **Python:** TensorFlow, PyTorch, PyGame, Django (e.g. [Softbody Simulation](https://github.com/Havilash/softbody-simulation), [Text Generation][https://github.com/havilash/text-generation], [CareMinder Backend](https://github.com/rergr/CareMinder), [Deep Neural Network](https://github.com/Havilash/neural-network), [Face Recognition with own data](https://github.com/Havilash/face-recognition))  
+- **Python:** TensorFlow, PyTorch, PyGame, Django (e.g. [Softbody Simulation](https://github.com/Havilash/softbody-simulation), [Text Generation](https://github.com/havilash/text-generation), [CareMinder Backend](https://github.com/rergr/CareMinder), [Deep Neural Network](https://github.com/Havilash/neural-network), [Face Recognition with own data](https://github.com/Havilash/face-recognition))  
 - **JavaScript:** React, Svelte, Express (Full-stack web development, e.g. Breadcrumb, [Portfolio Website](https://github.com/Havilash/portfolio-website))  
 - **Rust:** SDL (e.g. [Fluid Simulation](https://github.com/Havilash/fluid-simulation))  
 - **Java:** Spring Boot (Backend development, e.g. Breadcrumb Backend)  
@@ -20,7 +20,7 @@ Background in **Computer Science** and **Economics** from [bwd Bern](https://bwd
 
 ## Notable Projects
 
-- **[Neural Network](https://github.com/Havilash/neural-network):** Custom neural network built from scratch with Python and TensorFlow for machine learning experimentation.  
+- **[Neural Network](https://github.com/Havilash/neural-network):** Custom deep neural network built from scratch with Python for machine learning experimentation.  
 - **[Softbody Simulation](https://github.com/Havilash/softbody-simulation):** Physics-based simulation using Python and Pygame to model softbody dynamics.  
 - **[Fluid Simulation](https://github.com/Havilash/fluid-simulation):** Fluid dynamics simulation using Rust and SDL to simulate realistic fluid interactions.  
 
