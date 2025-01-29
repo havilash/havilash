@@ -29,4 +29,3 @@ Background in **Computer Science** and **Economics** from [bwd Bern](https://bwd
 ## Contact
 
 - **LinkedIn:** [Havilash Sivaratnam](https://www.linkedin.com/in/havilash-sivaratnam-586083265/)  
-- **Website:** [havilash.com](https://havilash.com)
