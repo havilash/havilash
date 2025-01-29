@@ -22,7 +22,8 @@ Background in **Computer Science** and **Economics** from [bwd Bern](https://bwd
 
 - **[Neural Network](https://github.com/Havilash/neural-network):** Custom deep neural network built from scratch with Python.  
 - **[Softbody Simulation](https://github.com/Havilash/softbody-simulation):** Physics-based simulation using Python and Pygame to model softbody dynamics.  
-- **[Fluid Simulation](https://github.com/Havilash/fluid-simulation):** Fluid dynamics simulation using Rust and SDL to simulate realistic fluid interactions.  
+- **[Fluid Simulation](https://github.com/Havilash/fluid-simulation):** Fluid dynamics simulation using Rust and SDL to simulate realistic fluid interactions.
+- **[CareMinder](https://github.com/rergr/CareMinder):** A startup focused on hospital management in South Korea.
 
 ---
 
