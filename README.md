@@ -1,6 +1,6 @@
 # Hello!
 
-**Software Engineer at Swisscom**  
+**Software Engineer @ Swisscom**  
 Background in **Computer Science** and **Economics** from [bwd Bern](https://bwdbern.ch/) and [gibb](https://gibb.ch/).
 
 ---
