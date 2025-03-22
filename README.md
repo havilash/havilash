@@ -1,4 +1,4 @@
-# Hello!
+7# Hello!
 
 **Software Engineer @ Swisscom**  
 Background in **Computer Science** and **Economics** from [bwd Bern](https://bwdbern.ch/) and [gibb](https://gibb.ch/).
@@ -24,6 +24,7 @@ Background in **Computer Science** and **Economics** from [bwd Bern](https://bwd
 - **[Softbody Simulation](https://github.com/Havilash/softbody-simulation):** Physics-based simulation using Python and Pygame to model softbody dynamics.  
 - **[Fluid Simulation](https://github.com/Havilash/fluid-simulation):** Fluid dynamics simulation using Rust and SDL to simulate realistic fluid interactions.
 - **[CareMinder](https://github.com/rergr/CareMinder):** A startup focused on hospital management in South Korea.
+- **[BreadCrumb](https://breadcrumb.store):** Restaurant Managment system using QR Codes and NFC.
 
 ---
 
